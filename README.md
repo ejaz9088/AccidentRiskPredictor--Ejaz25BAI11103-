@@ -65,12 +65,12 @@ This helps the model learn meaningful patterns.
 
 1. Install required libraries:
 
-pip install pandas numpy matplotlib scikit-learn
+"pip install pandas numpy matplotlib scikit-learn"
 
 
 2. Make sure these files are in the same folder:
 
-* `accident_data.csv`
+* "accident_data.csv"
 * Python file
 
 3. Run the program:
