@@ -1,6 +1,6 @@
 # Accident_Risk_Predictor
 
-Accident Risk Prediction System built using Machine Learning. This project predicts accident risk based on factors like speed, weather, traffic, and driver behavior, and provides safety suggestions along with report generation.=======
+Accident Risk Prediction System built using Machine Learning. This project predicts accident risk based on factors like speed, weather, traffic, and driver behavior, and provides safety suggestions along with report generation.
 
 # About the Project
 
@@ -65,9 +65,8 @@ This helps the model learn meaningful patterns.
 
 1. Install required libraries:
 
-```bash
 pip install pandas numpy matplotlib scikit-learn
-```
+
 
 2. Make sure these files are in the same folder:
 
@@ -76,9 +75,8 @@ pip install pandas numpy matplotlib scikit-learn
 
 3. Run the program:
 
-```bash
 python your_file_name.py
-```
+
 
 4. Use the menu options:
 
