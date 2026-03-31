@@ -2,7 +2,7 @@
 
 Accident Risk Prediction System built using Machine Learning. This project predicts accident risk based on factors like speed, weather, traffic, and driver behavior, and provides safety suggestions along with report generation.=======
 
-## 📌 About the Project
+# About the Project
 
 This project is a simple attempt to understand how machine learning can be used in real-life situations like road safety. The system predicts the chances of an accident based on different driving conditions such as speed, weather, time of day, traffic, and driver behavior.
 
@@ -10,7 +10,7 @@ The idea is to take inputs from the user and give an estimate of how risky the s
 
 ---
 
-## 🎯 Purpose
+# Purpose
 
 The main purpose of this project is:
 
@@ -20,7 +20,7 @@ The main purpose of this project is:
 
 ---
 
-## 🧠 Tools and Technologies
+# Tools and Technologies
 
 I have used the following tools in this project:
 
@@ -32,7 +32,7 @@ I have used the following tools in this project:
 
 ---
 
-## ⚙️ What the System Does
+# What the System Does
 
 * Takes user input like speed, weather, time, etc.
 * Predicts accident risk in percentage
@@ -45,7 +45,7 @@ I have used the following tools in this project:
 
 ---
 
-## 📊 About the Dataset
+# About the Dataset
 
 The dataset used in this project is not random. It is created based on common-sense real-life driving conditions.
 
@@ -61,7 +61,7 @@ This helps the model learn meaningful patterns.
 
 ---
 
-## ▶️ How to Run the Project
+# How to Run the Project
 
 1. Install required libraries:
 
@@ -89,7 +89,7 @@ python your_file_name.py
 
 ---
 
-## 🧪 Example Output
+# Example Output
 
 The system shows something like:
 
@@ -99,7 +99,7 @@ The system shows something like:
 
 ---
 
-## 💡 What I Learned
+# What I Learned
 
 While making this project, I learned:
 
@@ -110,7 +110,7 @@ While making this project, I learned:
 
 ---
 
-## 🚀 Future Improvements
+# Future Improvements
 
 If I continue this project, I would like to:
 
@@ -121,13 +121,13 @@ If I continue this project, I would like to:
 
 ---
 
-## 📚 Conclusion
+# Conclusion
 
 This project shows how machine learning can be used in everyday problems like road safety. Even though it is simple, it gives a clear idea of how different factors influence accident risk.
 
 ---
 
-## 👨‍💻 Author
+# Author
 
 MD EJAZ UDDIN
 Registration Number: 25BAI11103
